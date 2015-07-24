@@ -6,6 +6,7 @@ module.exports = function(data) {
         '<html>',
           '<head>',
             '<meta charset="utf-8"/>',
+            '<title>npm (Basically Magic)</title>',
             '<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>',
             '<link href="http://fonts.googleapis.com/css?family=Lobster+Two:400,700" rel="stylesheet" type="text/css">',
             '<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">',

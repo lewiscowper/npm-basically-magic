@@ -80,7 +80,7 @@ export default class extends React.Component {
             </Fill>
           </Layout>
         </Slide>
-        <Slide>
+        <Slide transition={['zoom', 'fade']} bgColor='primary'>
           <Heading fit>
             npm is the package manager for...
           </Heading>
