@@ -1,0 +1,10 @@
+{
+  "name": "npmlovessheffield",
+  "version": "1.0.0",
+  "webpack": "^1.10.0",
+  "webpack-dev-server": "^1.10.0",
+  "scripts": {
+  	"start": "webpack-dev-server",
+  	"build": "webpack"
+  }
+}

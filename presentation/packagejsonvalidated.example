@@ -1,0 +1,15 @@
+{
+  "name": "npmlovessheffield",
+  "version": "1.0.0",
+  "description": "ReactJS Powered Presentation about npm",
+  "keywords": ["javascriptformillenials", "npmtalk", "lolreact", "snakepeople"],
+  "bugs": "https://github.com/lewiscowper/npmlovesheffield/issues",
+  "license": "ISC",
+  "author": "Lewis Cowper <lewis.cowper@googlemail.com>",
+  "contributors": "SheffieldJS",
+  "repository": "https://github.com/lewiscowper/npmlovesheffield/",
+
+  "homepage": "https://hi.lewis.red/npmlovessheffield",
+  "dependencies": {},
+  "engines": {"node": "*"}
+}
